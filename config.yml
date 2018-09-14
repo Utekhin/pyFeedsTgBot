@@ -1,0 +1,12 @@
+token: '666207395:AAEZ6Pb3xB30G482HBHDCFiEeaofRMlogRg'
+feeds:
+  - url    : 'https://www.fontanka.ru/fontanka.rss' # Источник
+    id     : '287428842' # Получатель
+    delay  : 50   # Период опроса. Опционально. 600 по умолчанию, т.е. 10 минут
+  - url    : 'https://www.kommersant.ru/RSS/main.xml'
+    id     : '287428842'
+  - url    : 'https://lenta.ru/rss'
+    id     : '287428842'
+  - url    : 'https://www.bfm.ru/news.rss?type=news'
+    id     : '287428842'
+    
