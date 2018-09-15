@@ -8,5 +8,11 @@ feeds:
   - url    : 'https://lenta.ru/rss'
     id     : '287428842'
   - url    : 'https://www.bfm.ru/news.rss?type=news'
+    id     : '287428842' 
+  - url    : 'https://www.kommersant.ru/RSS/news.xml'
     id     : '287428842'
+  - url    : 'https://www.kommersant.ru/RSS/radio.xml'
+    id     : '287428842'
+   
+    
     
